@@ -4,4 +4,4 @@ In this project I designed a webpage using React library to show a list of produ
 
 ![image](https://user-images.githubusercontent.com/78646102/221201658-7f7ec908-58e1-488a-93ce-eaecb3d06ad6.png)
 
-### Here is a link to access to the ![startUp app desing](https://golden-pothos-20fb1f.netlify.app/)
+### Here is a link to access to the [startUp app desing](https://golden-pothos-20fb1f.netlify.app/)
